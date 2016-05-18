@@ -1,0 +1,45 @@
+.contenedor{
+		margin-top:10px;
+		margin-left:10%;
+		margin-right:10%;
+		width:500px;
+		height:	400px;
+		background-color: blue;
+		
+		border: 3px;
+	}
+.capa1{
+		
+		
+		height:	50%;
+		width:50%;
+		background-color:red;
+		display:block;
+		
+	}
+.capa2{
+		
+		
+		height:	50%;
+		width:50%;
+		background-color:green;
+		
+		
+	}
+.capa3{
+		
+		
+		height:	50%;
+		width:50%;
+		background-color:yellow;
+		display:block;
+		
+	}
+.capa4{
+				
+		height:	50%;
+		width:50%;
+		background-color:pink;
+		display:block;
+		
+	}
